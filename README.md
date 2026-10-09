@@ -176,7 +176,3 @@ Close `attendance1.xlsx` in Excel or any other spreadsheet application, then ret
 ### Face is not recognized
 
 Use a clear, well-lit image with the face visible. Ensure the saved image contains a detectable face and that the registered image quality is adequate.
-
-## License
-
-Add a license before distributing this project. Ensure you comply with the licenses and terms of all third-party libraries used.
